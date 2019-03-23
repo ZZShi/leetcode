@@ -1,4 +1,4 @@
-![ZZShi's LeetCode](image/ZZShi's LeetCode.png)
+![ZZShi's LeetCode](https://github.com/ZZShi/leetcode/blob/master/image/ZZShi's%20LeetCode.png)
 [![Travis](https://img.shields.io/badge/language-python-red.svg)](https://developer.apple.com/)
 
 ## 计划
