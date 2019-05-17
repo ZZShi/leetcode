@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time       : 2019/3/22 21:17
-@File       : convert.py
+@File       : 6-convert.py
 @Author     : ZZShi
 @Difficulty ：中等
 @Question   : Z字形变换

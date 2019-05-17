@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
 """
-@Time   : 2019/3/22 22:51
-@File   : 10-isMatch.py
-@Author : ZZShi
-@Difficulty：困难
-@Question: 正则表达式匹配
-@Describe: 给定一个字符串 (s) 和一个字符模式 (p)。实现支持 '.' 和 '*' 的正则表达式匹配。
+@Time       : 2019/3/22 22:51
+@File       : 10-isMatch.py
+@Author     : ZZShi
+@Difficulty ：困难
+@Question   : 正则表达式匹配
+@Describe   : 给定一个字符串 (s) 和一个字符模式 (p)。实现支持 '.' 和 '*' 的正则表达式匹配。
 
 '.' 匹配任意单个字符。
 '*' 匹配零个或多个前面的元素。

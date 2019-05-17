@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time       : 2019/3/13 19:26
-@File       : 4.py
+@File       : 4-findMedianSortedArrays.py
 @Author     : ZZShi
 @Difficulty ：hard
 @Question   : 寻找两个有序数组的中位数
