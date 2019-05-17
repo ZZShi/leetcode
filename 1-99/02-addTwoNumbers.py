@@ -21,7 +21,22 @@ class ListNode:
 
 class Solution:
     def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
-        pass
+        re = ListNode(0)
+        r = re
+        carry = 0
+        while l1 or l2:
+            x = l1.val if l1 else 0
+            y = l2.val if l2 else 0
+            s = carry + x + y
+            carry = s // 10
+            r.next = ListNode(s % 10)
+            if l1:
+                l1 = l1.next
+            if l2:
+                l2 = l2.next
+        if carry > 0:
+            r.next = ListNode(0)
+        return re.next
 
 
 if __name__ == "__main__":
